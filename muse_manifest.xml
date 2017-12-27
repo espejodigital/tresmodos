@@ -1,0 +1,295 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x" timestamp="1514405942397">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4078191847" ref="services:index:about:contact"/>
+    <file name="services.css" crc="84336264" ref="services"/>
+    <file name="iefonts_services.css" crc="535747905" ref="services"/>
+    <file name="index.css" crc="4076426257" ref="index"/>
+    <file name="iefonts_index.css" crc="4203436041" ref="index"/>
+    <file name="about.css" crc="4042797819" ref="about"/>
+    <file name="iefonts_about.css" crc="3772782583" ref="about"/>
+    <file name="contact.css" crc="4185678064" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4012660321" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:phone>about:tablet>index:tablet>about:index:about"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:phone>about:tablet>index:tablet>about:index:about"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:phone>about:tablet>index:tablet>about:index:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>about:phone>services:phone>contact:tablet>index:tablet>about:tablet>services:tablet>contact:index:about:services:contact"/>
+    <file name="form_check.php" crc="147359589" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>contact"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>contact"/>
+    <file name="form-u3349.php" crc="4113011516" ref="phone>contact"/>
+    <file name="form-u2777.php" crc="371787911" ref="tablet>contact"/>
+    <file name="form-u1837.php" crc="3891422055" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="homeslide_1.jpg" crc="420615139" seo="true" ref="phone>index:tablet>index:index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="homeslide_2.jpg" crc="420615139" seo="true" ref="phone>index:tablet>index:index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeslide_3.jpg" crc="420615139" seo="true" ref="phone>index:tablet>index:index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="web_1-u2976-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="web_1-u2976-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="web_2-u2972-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="web_2-u2972-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="web_3-u2973-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="web_3-u2973-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="web_4-u2975-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="web_4-u2975-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="web_5-u2974-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="web_5-u2974-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="web_6-u2977-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="web_6-u2977-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="web_1-u2981-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="web_2-u2979-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="web_3-u2985-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="web_4-u2983-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="web_5-u2987-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="web_6-u2989-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="graphic_1-u3052-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="graphic_1-u3052-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="graphic_2-u3053-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="graphic_2-u3053-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="graphic_3-u3056-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="graphic_3-u3056-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="graphic_4-u3057-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="graphic_4-u3057-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="graphic_5-u3055-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="graphic_5-u3055-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="graphic_6-u3054-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="graphic_6-u3054-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="graphic_1-u3065-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="graphic_2-u3067-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="graphic_3-u3069-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="graphic_4-u3063-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="graphic_5-u3061-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="graphic_6-u3059-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="photography_1-u3010-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="photography_1-u3010-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="photography_2-u3009-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="photography_2-u3009-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="photography_3-u3006-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="photography_3-u3006-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="photography_4-u3005-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="photography_4-u3005-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="photography_5-u3008-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="photography_5-u3008-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="photography_6-u3007-fr.jpg" crc="26124896" ref="phone>index"/>
+    <file name="photography_6-u3007-r-fr.png" crc="502886391" ref="phone>index"/>
+    <file name="photography_1-u3032-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="photography_2-u3030-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="photography_3-u3034-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="photography_4-u3028-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="photography_5-u3026-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="photography_6-u3036-fr.jpg" crc="151608372" ref="phone>index"/>
+    <file name="homeslide_1-u3090-fr.jpg" crc="327013259" ref="phone>about"/>
+    <file name="about_img.jpg" crc="3967966677" ref="phone>about:tablet>about:about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team_1-u3137-fr.jpg" crc="3975187605" ref="phone>about:tablet>about"/>
+    <file name="team_2-u3138-fr.jpg" crc="3975187605" ref="phone>about:tablet>about"/>
+    <file name="team_3-u3139-fr.jpg" crc="3975187605" ref="phone>about:tablet>about"/>
+    <file name="testimonial_bg.jpg" crc="458876693" ref="phone>about:tablet>about:about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="client1-u3211-fr.png" crc="520636975" ref="phone>about"/>
+    <file name="client5-u3212-fr.png" crc="4288007398" ref="phone>about"/>
+    <file name="client3-u3213-fr.png" crc="4190869927" ref="phone>about"/>
+    <file name="client4-u3214-fr.png" crc="3766430637" ref="phone>about"/>
+    <file name="client2-u3215-fr.png" crc="4123737592" ref="phone>about"/>
+    <file name="client6-u3216-fr.png" crc="35177538" ref="phone>about"/>
+    <file name="homeslide_2-u3219-fr.jpg" crc="327013259" ref="phone>services"/>
+    <file name="statistic_bg.jpg" crc="458876693" ref="phone>services:tablet>services:services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="homeslide_3-u3317-fr.jpg" crc="327013259" ref="phone>contact"/>
+    <file name="web_1-u2489-fr.jpg" crc="4281066140" ref="tablet>index:index"/>
+    <file name="web_1-u2489-r-fr.png" crc="478576025" ref="tablet>index:index"/>
+    <file name="web_2-u2490-fr.jpg" crc="4133802895" ref="tablet>index:index"/>
+    <file name="web_2-u2490-r-fr.png" crc="192845760" ref="tablet>index:index"/>
+    <file name="web_3-u2492-fr.jpg" crc="3848805025" ref="tablet>index"/>
+    <file name="web_3-u2492-r-fr.png" crc="280438261" ref="tablet>index"/>
+    <file name="web_4-u2491-fr.jpg" crc="82072553" ref="tablet>index:index"/>
+    <file name="web_4-u2491-r-fr.png" crc="113616526" ref="tablet>index:index"/>
+    <file name="web_5-u2494-fr.jpg" crc="169635448" ref="tablet>index:index"/>
+    <file name="web_5-u2494-r-fr.png" crc="3891798919" ref="tablet>index:index"/>
+    <file name="web_6-u2493-fr.jpg" crc="230940928" ref="tablet>index:index"/>
+    <file name="web_6-u2493-r-fr.png" crc="4292164791" ref="tablet>index:index"/>
+    <file name="web_1.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web_2.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web_3.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web_4.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web_5.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web_6.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic_1-u2422-fr.jpg" crc="4281066140" ref="tablet>index:index"/>
+    <file name="graphic_1-u2422-r-fr.png" crc="478576025" ref="tablet>index:index"/>
+    <file name="graphic_2-u2423-fr.jpg" crc="4133802895" ref="tablet>index:index"/>
+    <file name="graphic_2-u2423-r-fr.png" crc="192845760" ref="tablet>index:index"/>
+    <file name="graphic_3-u2426-fr.jpg" crc="3848805025" ref="tablet>index"/>
+    <file name="graphic_3-u2426-r-fr.png" crc="280438261" ref="tablet>index"/>
+    <file name="graphic_4-u2427-fr.jpg" crc="82072553" ref="tablet>index:index"/>
+    <file name="graphic_4-u2427-r-fr.png" crc="113616526" ref="tablet>index:index"/>
+    <file name="graphic_5-u2424-fr.jpg" crc="169635448" ref="tablet>index:index"/>
+    <file name="graphic_5-u2424-r-fr.png" crc="3891798919" ref="tablet>index:index"/>
+    <file name="graphic_6-u2425-fr.jpg" crc="230940928" ref="tablet>index:index"/>
+    <file name="graphic_6-u2425-r-fr.png" crc="4292164791" ref="tablet>index:index"/>
+    <file name="graphic_1.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic_2.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic_3.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic_4.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic_5.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic_6.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photography_1-u2469-fr.jpg" crc="4281066140" ref="tablet>index:index"/>
+    <file name="photography_1-u2469-r-fr.png" crc="478576025" ref="tablet>index:index"/>
+    <file name="photography_2-u2467-fr.jpg" crc="4133802895" ref="tablet>index:index"/>
+    <file name="photography_2-u2467-r-fr.png" crc="192845760" ref="tablet>index:index"/>
+    <file name="photography_3-u2464-fr.jpg" crc="3848805025" ref="tablet>index"/>
+    <file name="photography_3-u2464-r-fr.png" crc="280438261" ref="tablet>index"/>
+    <file name="photography_4-u2465-fr.jpg" crc="82072553" ref="tablet>index:index"/>
+    <file name="photography_4-u2465-r-fr.png" crc="113616526" ref="tablet>index:index"/>
+    <file name="photography_5-u2466-fr.jpg" crc="169635448" ref="tablet>index:index"/>
+    <file name="photography_5-u2466-r-fr.png" crc="3891798919" ref="tablet>index:index"/>
+    <file name="photography_6-u2468-fr.jpg" crc="230940928" ref="tablet>index:index"/>
+    <file name="photography_6-u2468-r-fr.png" crc="4292164791" ref="tablet>index:index"/>
+    <file name="photography_1.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photography_2.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photography_3.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photography_4.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photography_5.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photography_6.jpg" crc="391242174" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeslide_1-u2541-fr.jpg" crc="337688706" ref="tablet>about"/>
+    <file name="client1.png" crc="361199162" ref="tablet>about:about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="client5.png" crc="3813856273" ref="tablet>about:about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="client3.png" crc="265040734" ref="tablet>about:about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="client4.png" crc="4007678403" ref="tablet>about:about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="client2.png" crc="93451648" ref="tablet>about:about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="client6.png" crc="4217041250" ref="tablet>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="homeslide_2-u2659-fr.jpg" crc="337688706" ref="tablet>services"/>
+    <file name="homeslide_3-u2752-fr.jpg" crc="337688706" ref="tablet>contact"/>
+    <file name="web_3-u899-fr.jpg" crc="4160781242" ref="index"/>
+    <file name="web_3-u899-r-fr.png" crc="503096811" ref="index"/>
+    <file name="graphic_3-u1022-fr.jpg" crc="4160781242" ref="index"/>
+    <file name="graphic_3-u1022-r-fr.png" crc="503096811" ref="index"/>
+    <file name="photography_3-u1057-fr.jpg" crc="4160781242" ref="index"/>
+    <file name="photography_3-u1057-r-fr.png" crc="503096811" ref="index"/>
+    <file name="team_1.jpg" crc="3818781615" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team_2.jpg" crc="3818781615" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team_3.jpg" crc="3818781615" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="507188341" ref="tablet>services:tablet>about:tablet>index:tablet>contact"/>
+      <file name="services.css" crc="21754181" ref="tablet>services"/>
+      <file name="iefonts_services.css" crc="151270427" ref="tablet>services"/>
+      <file name="about.css" crc="433945962" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="3874273164" ref="tablet>about"/>
+      <file name="index.css" crc="3939486628" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3790443960" ref="tablet>index"/>
+      <file name="contact.css" crc="4096986541" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="303788631" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="3816901315" seo="true" mt="1441255864873" redirect="true"/>
+    <file name="about.html" crc="449213971" seo="true" mt="1441255856450" redirect="true"/>
+    <file name="services.html" crc="71078951" seo="true" mt="1441255856450" redirect="true"/>
+    <file name="contact.html" crc="4229042982" seo="true" mt="1441255856450" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4014752808" ref="phone>services:phone>about:phone>contact:phone>index"/>
+      <file name="services.css" crc="310174220" ref="phone>services"/>
+      <file name="iefonts_services.css" crc="3862388518" ref="phone>services"/>
+      <file name="about.css" crc="3775957634" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="4012187747" ref="phone>about"/>
+      <file name="contact.css" crc="4265104507" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="267380499" ref="phone>contact"/>
+      <file name="index.css" crc="489689918" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="257255588" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="25941811" seo="true" mt="1441255881538" redirect="true"/>
+    <file name="about.html" crc="4026257062" seo="true" mt="1441255871186" redirect="true"/>
+    <file name="services.html" crc="4177940732" seo="true" mt="1441255871186" redirect="true"/>
+    <file name="contact.html" crc="36939397" seo="true" mt="1441255871186" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3939295847" seo="true" mt="1441255844857" redirect="true"/>
+  <file name="about.html" crc="100553363" seo="true" mt="1441255837645" redirect="true"/>
+  <file name="services.html" crc="534563127" seo="true" mt="1441255837645" redirect="true"/>
+  <file name="contact.html" crc="3791118113" seo="true" mt="1441255837645" redirect="true"/>
+</manifest>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://a.com/index.html</loc>
+    <lastmod>2015-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://a.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://a.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://a.com/images/homeslide_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/homeslide_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/homeslide_3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://a.com/about.html</loc>
+    <lastmod>2015-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://a.com/phone/about.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://a.com/tablet/about.html"/>
+  </url>
+  <url>
+    <loc>http://a.com/services.html</loc>
+    <lastmod>2015-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://a.com/phone/services.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://a.com/tablet/services.html"/>
+  </url>
+  <url>
+    <loc>http://a.com/contact.html</loc>
+    <lastmod>2015-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://a.com/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://a.com/tablet/contact.html"/>
+  </url>
+</urlset>
